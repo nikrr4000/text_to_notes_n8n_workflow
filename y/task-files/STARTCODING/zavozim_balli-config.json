@@ -1,1 +1,0 @@
-{"queue": "STARTCODING", "conditions": [{"condition": "Country: \"Узбекистан\" AND Status: !closed", "to_field": "ballZaTest", "course_id": "1455"},{"condition": "Country: \"Кыргызстан\" AND Status: !closed", "to_field": "ballZaTestnballZaTest", "course_id": "1414"}]}
